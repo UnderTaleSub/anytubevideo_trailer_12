@@ -1,0 +1,36 @@
+{
+ "anytube": 1,
+ "kind": "game",
+ "title": "срез оборона короля",
+ "file": "trailer_12.mp4",
+ "duration": 14.333,
+ "parts": [
+  {
+   "repo": "anytubevideo_trailer_12",
+   "path": "trailer_12.mp4",
+   "size": 3213798,
+   "duration": 14.333,
+   "lfs": false
+  }
+ ],
+ "description": {
+  "chars": 0,
+  "chunks": []
+ },
+ "files": [],
+ "sale": {
+  "per_hour": 100
+ },
+ "trailer": false,
+ "paid": {
+  "parts": [],
+  "files": [],
+  "game": {
+   "repo": "anytubepaid_trailer_12",
+   "dir": "game",
+   "entry": "index.html",
+   "files": 4,
+   "size": 143119
+  }
+ }
+}
